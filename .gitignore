@@ -24,3 +24,6 @@ Thumbs.db
 
 # dotenv environment variables file
 .env
+
+# otros
+/build
