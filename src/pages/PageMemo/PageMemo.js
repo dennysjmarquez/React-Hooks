@@ -42,7 +42,7 @@ export const PageMemo = () => {
 
          <p className="lead">
             <strong>
-               <b>Código fuente, <a href="https://github.com/dennysjmarquez/Vue.js-bases/tree/master/vmodel"
+               <b>Código fuente, <a href="https://github.com/dennysjmarquez/React-Hooks/tree/master/src/pages/PageMemo/components"
                                     target="_blank" rel="noreferrer">haga
                   clic aquí</a>.</b>
             </strong>
