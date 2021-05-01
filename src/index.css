@@ -1,0 +1,38 @@
+.bg-light-f0f0f2 {
+  background-color: #f0f0f2;
+}
+
+.jumbotron {
+  max-width: 600px;
+  padding: 2em;
+  background-color: #282c34;
+  color: #fff;
+  border-radius: 0.5em;
+  box-shadow: 2px 3px 7px 2px #00000005
+
+}
+
+.jumbotron hr {
+  border-color: #fff;
+}
+
+.container-box {
+  margin: 50px auto;
+}
+
+h1 {
+  color: #61dafb;
+}
+
+h4 {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #61dafb;
+  transition: color 0.2s ease-out;
+}
+
+a:hover {
+  color: #ffffff;
+}
