@@ -11,6 +11,17 @@ export const PageMemo = () => {
 
          <hr className="my-4"/>
 
+         <p className="lead">
+            <strong>
+               <b>Código fuente, <a
+                  href="https://github.com/dennysjmarquez/React-Hooks/tree/master/src/pages/PageMemo/components"
+                  target="_blank" rel="noreferrer">haga
+                  clic aquí</a>.</b>
+            </strong>
+         </p>
+
+         <hr className="my-4"/>
+
          <h5>Este método hay que aprenderlo ates de aprender lo que son los Hooks useMemo y useCallback.</h5>
 
          <br/>
@@ -42,12 +53,12 @@ export const PageMemo = () => {
 
          <p className="lead">
             <strong>
-               <b>Código fuente, <a href="https://github.com/dennysjmarquez/React-Hooks/tree/master/src/pages/PageMemo/components"
-                                    target="_blank" rel="noreferrer">haga
+               <b>Código fuente, <a
+                  href="https://github.com/dennysjmarquez/React-Hooks/tree/master/src/pages/PageMemo/components"
+                  target="_blank" rel="noreferrer">haga
                   clic aquí</a>.</b>
             </strong>
          </p>
-
 
       </>
    );
